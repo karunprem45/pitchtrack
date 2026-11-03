@@ -6,3 +6,4 @@ data/raw/
 data/clean/
 .DS_Store
 *.zip
+output/
